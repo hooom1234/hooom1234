@@ -4,7 +4,7 @@
 <!--                          ANIMATED HEADER BANNER                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b3a,60:2d2b55,100:4a3f7a&height=200&section=header&text=Tawan%20Pingma&fontSize=52&fontColor=c8b8f8&fontAlignY=38&desc=Engineering%20Student%20%40KMITL%20%7C%20Full%20Stack%20%26%20Cybersecurity&descSize=16&descColor=8892b0&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://cdn.pico.vn/2026/01/19/176881702483230709271.jpeg" width="100%"/>
 
 <br/>
 
@@ -120,9 +120,7 @@ philosophy: >
 
 <br/>
 
-<a href="https://github.com/hooom1234/miniproject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hooom1234&repo=miniproject&theme=tokyonight&bg_color=0d1117&border_color=4a3f7a&title_color=c8b8f8&text_color=8892b0&icon_color=7B68EE&hide_border=false" />
-</a>
+
 
 <br/><br/>
 
@@ -275,13 +273,7 @@ Purpose : 2D game prototypes exploring
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c8b8f8&labelColor=1a1b3a" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/tawan-pingma">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c8b8f8&labelColor=1a1b3a" />
-</a>
-&nbsp;
-<a href="https://websitefolio.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-websitefolio.pages.dev-0d1117?style=for-the-badge&logo=astro&logoColor=c8b8f8&labelColor=4a3f7a" />
-</a>
+
 
 <br/><br/>
 

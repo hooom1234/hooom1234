@@ -10,7 +10,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://websitefolio.pages.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=7B68EE&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CTF+Player+%7C+AI+Engineer+%7C+RAG+Systems+Builder;Communication+%26+Network+Electrical+Engineering+%40+KMITL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=7B68EE&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CTF+Player+%7C+DEV+FULLSTACK+%7C+FULL+VIBE+CODEEE" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -18,14 +18,6 @@
 <!-- SOCIAL BADGES -->
 <a href="mailto:tawan.pingma@email.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c8b8f8&labelColor=1a1b3a" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/tawan-pingma">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c8b8f8&labelColor=1a1b3a" />
-</a>
-&nbsp;
-<a href="https://websitefolio.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=astro&logoColor=c8b8f8&labelColor=1a1b3a" />
 </a>
 &nbsp;
 <a href="https://github.com/hooom1234">

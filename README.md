@@ -4,11 +4,11 @@
 <!--                    HEADER BANNER                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1b3a,60:2d2b55,100:4a3f7a&height=220&section=header&text=Tawan%20Pingma&fontSize=60&fontColor=c8b8f8&fontAlignY=40&desc=%E2%9C%A6%20Engineering%20Student%20%40%20KMITL%20%E2%9C%A6%20Full%20Stack%20%26%20Cybersecurity&descSize=15&descColor=8892b0&descAlignY=62&animation=fadeIn&stroke=4a3f7a&strokeWidth=2" width="100%"/>
+
 
 <!-- TYPING ANIMATION -->
 <a href="https://websitefolio.pages.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=7B68EE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=65&lines=CTF+Player+%7C+Full+Stack+Dev+%7C+Vibe+Code+with+Genius+%F0%9F%94%AE;AI+Engineer+%7C+RAG+Systems+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F;Communication+%26+Network+EE+%40+KMITL+%F0%9F%8F%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=7B68EE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=65&lines=CTF+Player+%7C+Full+Stack+Dev+%7C+Vibe+Code+with+Genius+%F0%9F%94%AE;AI+Engineer+%7C+RAG+Systems+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,10 +21,6 @@
 <!-- SOCIAL BADGES -->
 <a href="mailto:tawan.pingma@email.com">
   <img src="https://img.shields.io/badge/✉%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c8b8f8&labelColor=2d2b55" />
-</a>
-&nbsp;
-<a href="https://websitefolio.pages.dev/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-0d1117?style=for-the-badge&logo=astro&logoColor=c8b8f8&labelColor=2d2b55" />
 </a>
 &nbsp;
 <a href="https://github.com/hooom1234">

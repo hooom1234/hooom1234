@@ -4,16 +4,14 @@
 <!--                          ANIMATED HEADER BANNER                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://cdn.pico.vn/2026/01/19/176881702483230709271.jpeg" width="100%"/>
 
 <br/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://websitefolio.pages.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=7B68EE&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CTF+Player+%7C+DEV+FULLSTACK+%7C+FULL+VIBE+CODEEE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=7B68EE&center=true&vCenter=true&multiline=true&width=600&height=60&lines=CTF+Player+%7C+DEV+FULLSTACK+%7C+AND.+VIBE+CODEEE+WITH+GENIUS" alt="Typing SVG" />
 </a>
 
-<br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="mailto:tawan.pingma@email.com">

@@ -29,12 +29,7 @@
 
 <br/><br/>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hooom1234/hooom1234/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hooom1234/hooom1234/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hooom1234/hooom1234/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
+
 
 <br/>
 
@@ -140,11 +135,6 @@ philosophy: >
 
 <br/>
 
-<a href="https://github.com/hooom1234/miniproject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hooom1234&repo=miniproject&theme=tokyonight&bg_color=0d1117&border_color=7B68EE&title_color=c8b8f8&text_color=8892b0&icon_color=7B68EE" />
-</a>
-
-<br/><br/>
 
 ```
  ╔═══════════════════════════════════════════════════════════════╗
@@ -257,10 +247,6 @@ interactive storytelling.
 <!--              GITHUB STATS  (Moonlight)                   -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="22">
-  &nbsp; git stats
-</h3>
 
 <br/>
 
@@ -316,10 +302,6 @@ interactive storytelling.
   <img src="https://img.shields.io/badge/✉%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c8b8f8&labelColor=2d2b55" />
 </a>
 &nbsp;
-<a href="https://websitefolio.pages.dev/">
-  <img src="https://img.shields.io/badge/🌐%20websitefolio.pages.dev-0d1117?style=for-the-badge&logo=astro&logoColor=c8b8f8&labelColor=4a3f7a" />
-</a>
-&nbsp;
 <a href="https://github.com/hooom1234">
   <img src="https://img.shields.io/badge/⌥%20hooom1234-0d1117?style=for-the-badge&logo=github&logoColor=c8b8f8&labelColor=2d2b55" />
 </a>
@@ -330,7 +312,7 @@ interactive storytelling.
 
 <br/><br/>
 
-> *"The quieter you become, the more you can hear."* — Kali Linux
+> *"You Know if you don't know."* — Someone
 
 <br/>
 

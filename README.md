@@ -1,39 +1,3 @@
-<div align="center">
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    HEADER BANNER                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-
-
-<!-- TYPING ANIMATION -->
-<a href="https://websitefolio.pages.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=7B68EE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=65&lines=CTF+Player+%7C+Full+Stack+Dev+%7C+Vibe+Code+with+Genius+%F0%9F%94%AE;AI+Engineer+%7C+RAG+Systems+%7C+Security+Researcher+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="mailto:tawan.pingma@email.com">
-  <img src="https://img.shields.io/badge/✉%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=c8b8f8&labelColor=2d2b55" />
-</a>
-&nbsp;
-<a href="https://github.com/hooom1234">
-  <img src="https://img.shields.io/badge/⌥%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c8b8f8&labelColor=2d2b55" />
-</a>
-
-<br/><br/>
-
-
-
-<br/>
-
-</div>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--              ABOUT ME  |  TECH STACK  (2-col)            -->

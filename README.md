@@ -22,7 +22,7 @@
 
 roles:
   ⚔  CTF Player & Security Researcher
-  🤖  AI Engineer  (Super AI S6)
+  🤖  AI Engineer
   🔗  RAG Systems Builder
   🌐  Full Stack Developer
 
